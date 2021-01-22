@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "753482068290",
+    "firebase_url": "https://aslreader-b6e2d.firebaseio.com",
+    "project_id": "aslreader-b6e2d",
+    "storage_bucket": "aslreader-b6e2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753482068290:android:429150303f8949fc93d8db",
+        "android_client_info": {
+          "package_name": "com.example.aslreader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753482068290-a88s4ud6tm5sqr912g9sdgr1cr8570m8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxbGPPeI5BzL-kEY41r-l9oDMD8We6NLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753482068290-a88s4ud6tm5sqr912g9sdgr1cr8570m8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
